@@ -53,7 +53,7 @@ function FinalPage() {
         <div className="thank-you-container">
           <h1>Congratulations! You have reached the end of the survey.</h1>
           <h1>Thank you for your responses!</h1>
-          <h2>Send a screenshot of this page along with your unique identifier at kumar.j@ufl.edu <br/> Your Unique identifier is: {uniqueId}</h2>
+          <h2>Your Unique identifier is: {uniqueId}</h2>
         </div>
         <div className="button-container">
           <button className="regenerate-button" onClick={handleRegenerateRecommendation}>Regenerate Recommendation</button>
