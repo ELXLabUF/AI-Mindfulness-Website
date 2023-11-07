@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mindfulness/static/css/main.d61c378e.css",
-    "main.js": "/mindfulness/static/js/main.961b2eff.js",
-    "static/js/787.ef54eb24.chunk.js": "/mindfulness/static/js/787.ef54eb24.chunk.js",
-    "static/media/meditation.jpg": "/mindfulness/static/media/meditation.70ad4fe6377d91c3deb1.jpg",
-    "static/media/surveypage.JPG": "/mindfulness/static/media/surveypage.d4297260faa0faeb73c8.JPG",
-    "static/media/mindfulness_welcome.jpg": "/mindfulness/static/media/mindfulness_welcome.5d80f21e0baa6b9aa6ce.jpg",
-    "index.html": "/mindfulness/index.html",
-    "main.d61c378e.css.map": "/mindfulness/static/css/main.d61c378e.css.map",
-    "main.961b2eff.js.map": "/mindfulness/static/js/main.961b2eff.js.map",
-    "787.ef54eb24.chunk.js.map": "/mindfulness/static/js/787.ef54eb24.chunk.js.map"
+    "main.css": "/static/css/main.cc219f94.css",
+    "main.js": "/static/js/main.57974bd5.js",
+    "static/js/787.ef54eb24.chunk.js": "/static/js/787.ef54eb24.chunk.js",
+    "static/media/meditation.jpg": "/static/media/meditation.70ad4fe6377d91c3deb1.jpg",
+    "static/media/surveypage.JPG": "/static/media/surveypage.d4297260faa0faeb73c8.JPG",
+    "static/media/mindfulness_welcome.jpg": "/static/media/mindfulness_welcome.5d80f21e0baa6b9aa6ce.jpg",
+    "index.html": "/index.html",
+    "main.cc219f94.css.map": "/static/css/main.cc219f94.css.map",
+    "main.57974bd5.js.map": "/static/js/main.57974bd5.js.map",
+    "787.ef54eb24.chunk.js.map": "/static/js/787.ef54eb24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d61c378e.css",
-    "static/js/main.961b2eff.js"
+    "static/css/main.cc219f94.css",
+    "static/js/main.57974bd5.js"
   ]
 }
