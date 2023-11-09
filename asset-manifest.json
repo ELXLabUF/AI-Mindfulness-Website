@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ai-mindfulness-website/static/css/main.80f44055.css",
-    "main.js": "/ai-mindfulness-website/static/js/main.b20d859e.js",
-    "static/js/787.ef54eb24.chunk.js": "/ai-mindfulness-website/static/js/787.ef54eb24.chunk.js",
-    "static/media/meditation.jpg": "/ai-mindfulness-website/static/media/meditation.70ad4fe6377d91c3deb1.jpg",
-    "static/media/surveypage.JPG": "/ai-mindfulness-website/static/media/surveypage.d4297260faa0faeb73c8.JPG",
-    "static/media/mindfulness_welcome.jpg": "/ai-mindfulness-website/static/media/mindfulness_welcome.5d80f21e0baa6b9aa6ce.jpg",
-    "index.html": "/ai-mindfulness-website/index.html",
-    "main.80f44055.css.map": "/ai-mindfulness-website/static/css/main.80f44055.css.map",
-    "main.b20d859e.js.map": "/ai-mindfulness-website/static/js/main.b20d859e.js.map",
-    "787.ef54eb24.chunk.js.map": "/ai-mindfulness-website/static/js/787.ef54eb24.chunk.js.map"
+    "main.css": "/AI-Mindfulness-Website/static/css/main.637ba5d5.css",
+    "main.js": "/AI-Mindfulness-Website/static/js/main.6edd39b9.js",
+    "static/js/787.ef54eb24.chunk.js": "/AI-Mindfulness-Website/static/js/787.ef54eb24.chunk.js",
+    "static/media/meditation.jpg": "/AI-Mindfulness-Website/static/media/meditation.70ad4fe6377d91c3deb1.jpg",
+    "static/media/surveypage.JPG": "/AI-Mindfulness-Website/static/media/surveypage.d4297260faa0faeb73c8.JPG",
+    "static/media/mindfulness_welcome.jpg": "/AI-Mindfulness-Website/static/media/mindfulness_welcome.5d80f21e0baa6b9aa6ce.jpg",
+    "index.html": "/AI-Mindfulness-Website/index.html",
+    "main.637ba5d5.css.map": "/AI-Mindfulness-Website/static/css/main.637ba5d5.css.map",
+    "main.6edd39b9.js.map": "/AI-Mindfulness-Website/static/js/main.6edd39b9.js.map",
+    "787.ef54eb24.chunk.js.map": "/AI-Mindfulness-Website/static/js/787.ef54eb24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f44055.css",
-    "static/js/main.b20d859e.js"
+    "static/css/main.637ba5d5.css",
+    "static/js/main.6edd39b9.js"
   ]
 }
