@@ -107,7 +107,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename='/AI-Mindfulness-Website'>
       <div className="App">
         <Routes>
           <Route path="/" element={<LandingPage onStartClick={handleStartClick} />}/>

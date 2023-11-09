@@ -1,7 +1,7 @@
 {
   "name": "ai-mindfulness-website",
   "version": "0.1.0",
-  "homepage": "https://ai-mindfulness-website.github.io",
+  "homepage": "https://elxlabuf.github.io/AI-Mindfulness-Website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
