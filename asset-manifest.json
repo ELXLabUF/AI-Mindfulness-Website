@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/AI-Mindfulness-Website/static/css/main.637ba5d5.css",
-    "main.js": "/AI-Mindfulness-Website/static/js/main.d2943398.js",
+    "main.js": "/AI-Mindfulness-Website/static/js/main.70feb81c.js",
     "static/js/787.522ac213.chunk.js": "/AI-Mindfulness-Website/static/js/787.522ac213.chunk.js",
     "static/media/meditation.jpg": "/AI-Mindfulness-Website/static/media/meditation.70ad4fe6377d91c3deb1.jpg",
     "static/media/surveypage.JPG": "/AI-Mindfulness-Website/static/media/surveypage.d4297260faa0faeb73c8.JPG",
     "static/media/mindfulness_welcome.jpg": "/AI-Mindfulness-Website/static/media/mindfulness_welcome.5d80f21e0baa6b9aa6ce.jpg",
     "index.html": "/AI-Mindfulness-Website/index.html",
     "main.637ba5d5.css.map": "/AI-Mindfulness-Website/static/css/main.637ba5d5.css.map",
-    "main.d2943398.js.map": "/AI-Mindfulness-Website/static/js/main.d2943398.js.map",
+    "main.70feb81c.js.map": "/AI-Mindfulness-Website/static/js/main.70feb81c.js.map",
     "787.522ac213.chunk.js.map": "/AI-Mindfulness-Website/static/js/787.522ac213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.637ba5d5.css",
-    "static/js/main.d2943398.js"
+    "static/js/main.70feb81c.js"
   ]
 }
