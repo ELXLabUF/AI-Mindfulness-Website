@@ -771,7 +771,7 @@ const PostQuestionsPage = () => {
     ], [
       { id: 'OEQ1', text: 'Overall, how would you rate the experience quality of the nature sound presented on the website?',
         answerOptions: [
-          { label: "Extremly good disagree", value: "1" },
+          { label: "Extremly good", value: "1" },
           { label: "Very good", value: "2" },
           { label: "Good", value: "3" },
           { label: "Moderate", value: "4" },
@@ -783,7 +783,7 @@ const PostQuestionsPage = () => {
     ], [
       { id: 'OEQ2', text: 'Overall, how would you rate the experience quality of the nature destination presented on the website?',
         answerOptions: [
-          { label: "Extremly good disagree", value: "1" },
+          { label: "Extremly good", value: "1" },
           { label: "Very good", value: "2" },
           { label: "Good", value: "3" },
           { label: "Moderate", value: "4" },
@@ -795,7 +795,7 @@ const PostQuestionsPage = () => {
     ], [
       { id: 'OEQ3', text: 'Overall, how would you rate the experience quality of the guided meditation presented on the website?',
         answerOptions: [
-          { label: "Extremly good disagree", value: "1" },
+          { label: "Extremly good", value: "1" },
           { label: "Very good", value: "2" },
           { label: "Good", value: "3" },
           { label: "Moderate", value: "4" },
@@ -1172,7 +1172,7 @@ const PostQuestionsPage = () => {
     // navigate(nextPage, { state: { videoUrl: videoUrl, description: "nature sound", benefits:"relax" } });
 
     try {
-      const response = await fetch('http://minfulness-api.ue.r.appspot.com/savePostSurveyResponse', {
+      const response = await fetch('https://minfulness-api.ue.r.appspot.com/savePostSurveyResponse', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
