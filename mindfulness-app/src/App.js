@@ -9,6 +9,7 @@ import VideoPage from './VideoPage';
 import FinalPage from './FinalPage';
 import AboutUs from './AboutUs';
 import SurveyGuide from './SurveyGuide';
+import RedirectPage from './Redirect';
 
 function App() {
   const [questions, setQuestions] = useState([
@@ -67,6 +68,7 @@ function App() {
           }/>
           <Route path="/final" element={<FinalPage />} />
           <Route path="/about" element={<AboutUs />} />
+          <Route path="/redirect" element={<RedirectPage />} />
           <Route path="/survey" element={<SurveyGuide />} />
         </Routes>
       </div>

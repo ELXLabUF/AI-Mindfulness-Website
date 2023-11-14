@@ -30,6 +30,11 @@ function LandingPage(props) {
   // };
 
   const handleStartClick = () => {
+
+    const r = Math.floor(Math.random() * 2);
+    if (r==0){
+      navigate('/redirect');
+    }
  
     const nextPage = '/meditation';
   
