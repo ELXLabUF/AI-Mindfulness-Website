@@ -52,4 +52,12 @@
     font-size: 14px;
     padding: 5px 10px;
   }
+
+  .video-page-container {
+    height: 100vh;
+  }
+
+  .video-page-player {
+    object-fit: contain;
+  }
 }

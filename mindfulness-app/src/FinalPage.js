@@ -7,11 +7,7 @@ function FinalPage() {
   const navigate = useNavigate();
 
   const location = useLocation();
-  const {videoUrl} = location.state;
-
-  // const searchParams = new URLSearchParams(location.search);
-  // const nextPage = searchParams.get('nextPage');
-  // const videoUrl = searchParams.get('videoUrl');
+  const {videoUrl, unique_id} = location.state;
 
   const handleRegenerateRecommendation = () => {
     const nextPage = '/meditation';
@@ -48,12 +44,13 @@ function FinalPage() {
         </div>
       </header>
       {/* <div className="background-image"></div> */}
-      <img src="mindfulness_welcome.jpg" alt="Welcome" className="final-background-image" />
+      <div className="final-background-image"></div>
+      {/* <img src="mindfulness_welcome.jpg" alt="Welcome" className="final-background-image" /> */}
       <div className="message-container">
         <div className="thank-you-container">
           <h1>Congratulations! You have reached the end of the survey.</h1>
           <h1>Thank you for your responses!</h1>
-          <h2>Your Unique identifier is: {uniqueId}</h2>
+          <h2>Your Unique identifier is: {unique_id} </h2>
         </div>
         <div className="button-container">
           <button className="regenerate-button" onClick={handleRegenerateRecommendation}>Regenerate Recommendation</button>

@@ -57,7 +57,8 @@ function LandingPage(props) {
         </div>
       </header>
       <div className="welcome-container">
-        <img src="mindfulness_welcome.jpg" alt="Welcome" className="landing-background-image" />
+        {/* <img src="mindfulness_welcome.jpg" alt="Welcome" className="landing-background-image" /> */}
+        <div className="landing-background-image"></div>
         <div className="welcome-message">
           <h1>Practice Mindfulness with nature interactions</h1>
           <p>Complete a few questions for a personalized mindfulness experience.</p>

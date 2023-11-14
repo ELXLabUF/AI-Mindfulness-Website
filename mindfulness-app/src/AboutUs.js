@@ -6,18 +6,6 @@ import './AboutUs.css'
 function AboutUs() {
   const navigate = useNavigate();
 
-  const handleRegenerateRecommendation = () => {
-    const nextPage = '/meditation';
-  
-    navigate('/questions', { state: nextPage  });
-  };
-
-  const handleRepeatMeditation = () => {
-    // Handle repeat meditation button click
-    // ...
-    navigate('/meditation');
-  };
-
   const handleHomeClick = () => {
     navigate('/');
   };
