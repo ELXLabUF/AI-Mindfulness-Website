@@ -32,13 +32,15 @@ function LandingPage(props) {
   const handleStartClick = () => {
 
     const r = Math.floor(Math.random() * 2);
+    console.log(r);
     if (r==0){
       navigate('/redirect');
     }
- 
-    const nextPage = '/meditation';
+    else{
+      const nextPage = '/meditation';
   
-    navigate('/questions', { state: nextPage  });
+      navigate('/questions', { state: nextPage  });
+    }
   };
 
   const handleHomeClick = () => {
