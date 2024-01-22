@@ -50,7 +50,7 @@ function FinalPage() {
         <div className="thank-you-container">
           <h1>Congratulations! You have reached the end of the survey.</h1>
           <h1>Thank you for your responses!</h1>
-          <h2>Send your unique identifier at adehoog@ufl.edu <br/> Your Unique identifier is: {unique_id} </h2>
+          <h2>Submit your name and unique identifier <a href="https://docs.google.com/forms/d/e/1FAIpQLSdir8DBzhBFv783KoRz2EhxxaINsusRQwlHrk11DnoALzH43Q/viewform?usp=sf_link">here</a> <br/> Your Unique identifier is: {unique_id} </h2>
         </div>
         <div className="button-container">
           <button className="regenerate-button" onClick={handleRegenerateRecommendation}>Regenerate Recommendation</button>
