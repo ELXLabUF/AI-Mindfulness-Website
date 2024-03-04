@@ -68,7 +68,6 @@ function App() {
           }/>
           <Route path="/final" element={<FinalPage />} />
           <Route path="/about" element={<AboutUs />} />
-          <Route path="/redirect" element={<RedirectPage />} />
           <Route path="/survey" element={<SurveyGuide />} />
         </Routes>
       </div>
